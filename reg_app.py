@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 ##st.set_page_config(layout='wide',page_icon="Reg_analysis")
 
 _,col2,_=st.columns([0.2,2,0.1])
