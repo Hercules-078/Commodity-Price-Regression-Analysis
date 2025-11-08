@@ -1,6 +1,9 @@
 # Commodity-Price-Regression-Analysis
 Streamlit app link - https://commodity-price-regression-analysis.streamlit.app/
 
+⚠ Click ***Yes, get this app back up!*** (Apps are set to sleep if they receive no traffic for one weekday.)
+
+---
 This project analyzes global commodity price co-movements from 1995 to 2025 using correlation and linear regression. Built with Python and Streamlit, it explores relationships across Metals, Energy, and Beverages sectors through interactive visualizations and regression analysis based on reliable global data sources.
 
 ## Table of contents
